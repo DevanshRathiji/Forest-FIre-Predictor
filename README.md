@@ -1,2 +1,2 @@
-# Forest-FIre-Predictor
+# Forest-Fire-Predictor
 Flask Based Web Application
